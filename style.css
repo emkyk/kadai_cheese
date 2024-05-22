@@ -38,7 +38,7 @@ html {
     width: 100%;
 }
 .mainvisual-text {
-    background-image: url(../img/mainbg.png);
+    background-image: url(mainbg.png);
     background-position: center;
     background-size: cover;
     height: 360px;
@@ -308,7 +308,7 @@ img {
   }
   
   button[type="submit"] {
-    background-color: #4CAF50;
+    background-color: #ffd700;
     color: white;
     padding: 10px 20px;
     border: none;
@@ -318,7 +318,7 @@ img {
   }
   
   button[type="submit"]:hover {
-    background-color: #45a049;
+    background-color: #ffd700;
   }
   
   .footer {
