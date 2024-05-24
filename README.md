@@ -11,6 +11,8 @@
 ## ③DEMO
 
 デプロイしている場合はURLを記入（任意）
+https://emkyk.github.io/kadai_cheese/
+
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
